@@ -20,6 +20,3 @@ github.com/Blai234/aquariobcn
 ### 💬 Hablemos
 * **LinkedIn:** https://www.linkedin.com/in/blai-sole-a2ab673a8/
 * **Intereses actuales:** Explorando arquitecturas de modelos de lenguaje (LLM), optimización de flujos de trabajo en sistemas operativos. Además de un interés por crear apps completas desde el backend hasta el frontend.
-
----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
