@@ -3,7 +3,7 @@
 Desarrollador enfocado en la ingeniería de sistemas, la virtualización y la creación de herramientas de análisis de datos en tiempo real. Me apasiona entender cómo funcionan las cosas "bajo el capó", desde la arquitectura de sistemas operativos hasta la lógica de los LLMs.
 
 ### 🛠 Tech Stack & Habilidades
-* **Lenguajes:** Python, Java, JavaScript, APL.
+* **Lenguajes y otros:** Python, Java, JavaScript, HTML5, CSS3 y Bootstrap.
 * **Sistemas & Virtualización:** macOS (Hackintosh/OpenCore), Ubuntu (WSL), Virtualización de sistemas.
 * **Herramientas de Análisis/Reverse-engineering:** Frida, Radare2, Objection.
 * **Desarrollo:** Creación de aplicaciones de monitoreo de audio, automatización y scripting.
